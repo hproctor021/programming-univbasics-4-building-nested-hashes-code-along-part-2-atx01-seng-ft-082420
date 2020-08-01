@@ -68,6 +68,7 @@ def add_characters
   epic_tragedy[:capulet][:additional_characters] = {
     :name => "Apothecary"}
   }
+  }
 
 
 
